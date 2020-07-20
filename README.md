@@ -1,2 +1,2 @@
 # githubprj
-This is my first attemp on open source.
+This is my first attempt on open source.
